@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Agency - Start Bootstrap Theme</title>
+    <title>Movingbird - Building an Exo-Skeleton</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
@@ -59,19 +59,22 @@
                     <a href="#page-top"></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#services">About</a>
+                    <a class="page-scroll" href="#about">About</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#portfolio">Mindwalker</a>
+                    <a class="page-scroll" href="#mindwalker">Mindwalker</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#about">Cybathlon</a>
+                    <a class="page-scroll" href="#cybathlon">Cybathlon 2016</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#team">Team</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#contact">Partners</a>
+                    <a class="page-scroll" href="#partners">Partners</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#contact">Contact</a>
                 </li>
             </ul>
         </div>
@@ -91,8 +94,8 @@
     </div>
 </header>
 
-<!-- Services Section -->
-<section id="services">
+<!-- About Section -->
+<section id="about">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -145,8 +148,8 @@
     </div>
 </section>
 
-<!-- Portfolio Grid Section -->
-<section id="portfolio" class="bg-light-gray">
+<!-- Mindwalker Grid Section -->
+<section id="mindwalker" class="bg-light-gray">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -256,12 +259,12 @@
     </div>
 </section>
 
-<!-- About Section -->
-<section id="about">
+<!-- Cybathlon Section -->
+<section id="cybathlon">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">About</h2>
+                <h2 class="section-heading">Cybathlon 2016</h2>
 
                 <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
             </div>
@@ -348,8 +351,8 @@
 
 <!-- Team Section -->
 @include('partials.team')
-<!-- Clients Aside -->
-<aside class="clients">
+<!-- Partners Aside -->
+<aside class="partners">
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-6">
@@ -434,7 +437,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <span class="copyright">Copyright &copy; Your Website 2014</span>
+                <span class="copyright">Copyright &copy; Movingbird 2014</span>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
@@ -463,7 +466,7 @@
 
 <!-- Portfolio Modal 1 -->
 @include('partials.modals')
-<!-- jQuery -->
+        <!-- jQuery -->
 <script src="js/jquery.js"></script>
 
 <!-- Bootstrap Core JavaScript -->

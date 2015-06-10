@@ -42,7 +42,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="team-member">
-                    <img src="https://scontent-ams3-1.xx.fbcdn.net/hphotos-frc3/t31.0-8/1116158_10151824617708497_898264419_o.jpg" class="img-responsive img-circle" alt="">
+                    <img src="http://lorempixel.com/300/300/fashion/" class="img-responsive img-circle" alt="">
                     <h4>Samir den Haan</h4>
 
                     <p class="text-muted">Mechanical Engineer</p>
@@ -58,7 +58,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="team-member">
-                    <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
+                    <img src="http://lorempixel.com/300/300/fashion/" class="img-responsive img-circle" alt="">
                     <h4>Larry Parker</h4>
 
                     <p class="text-muted">Lead Marketer</p>
@@ -74,7 +74,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                    <img src="http://lorempixel.com/300/300/fashion/" class="img-responsive img-circle" alt="">
                     <h4>Diana Pertersen</h4>
 
                     <p class="text-muted">Lead Developer</p>
@@ -90,7 +90,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                    <img src="http://lorempixel.com/300/300/fashion/" class="img-responsive img-circle" alt="">
                     <h4>Diana Pertersen</h4>
 
                     <p class="text-muted">Lead Developer</p>
@@ -106,7 +106,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                    <img src="http://lorempixel.com/300/300/fashion/" class="img-responsive img-circle" alt="">
                     <h4>Diana Pertersen</h4>
 
                     <p class="text-muted">Lead Developer</p>
@@ -122,7 +122,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                    <img src="http://lorempixel.com/300/300/fashion/" class="img-responsive img-circle" alt="">
                     <h4>Diana Pertersen</h4>
 
                     <p class="text-muted">Lead Developer</p>
@@ -138,7 +138,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                    <img src="http://lorempixel.com/300/300/fashion/" class="img-responsive img-circle" alt="">
                     <h4>Diana Pertersen</h4>
 
                     <p class="text-muted">Lead Developer</p>
@@ -154,7 +154,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                    <img src="http://lorempixel.com/300/300/fashion/" class="img-responsive img-circle" alt="">
                     <h4>Diana Pertersen</h4>
 
                     <p class="text-muted">Lead Developer</p>
@@ -170,7 +170,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                    <img src="http://lorempixel.com/300/300/fashion/" class="img-responsive img-circle" alt="">
                     <h4>Diana Pertersen</h4>
 
                     <p class="text-muted">Lead Developer</p>
@@ -186,7 +186,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                    <img src="http://lorempixel.com/300/300/fashion/" class="img-responsive img-circle" alt="">
                     <h4>Diana Pertersen</h4>
 
                     <p class="text-muted">Lead Developer</p>
