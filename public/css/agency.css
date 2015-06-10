@@ -1,6 +1,129 @@
+/**
+Utility
+**/
+.padding-top-s {
+  padding-top: 5px;
+}
+.padding-top-m {
+  padding-top: 10px;
+}
+.padding-top-l {
+  padding-top: 25px;
+}
+.padding-top-xl {
+  padding-top: 50px;
+}
+.padding-bottom-s {
+  padding-bottom: 5px;
+}
+.padding-bottom-m {
+  padding-bottom: 10px;
+}
+.padding-bottom-l {
+  padding-bottom: 25px;
+}
+.padding-bottom-xl {
+  padding-bottom: 50px;
+}
+.padding-right-s {
+  padding-right: 5px;
+}
+.padding-right-m {
+  padding-right: 10px;
+}
+.padding-right-l {
+  padding-right: 25px;
+}
+.padding-right-xl {
+  padding-right: 50px;
+}
+.padding-left-s {
+  padding-left: 5px;
+}
+.padding-left-m {
+  padding-left: 10px;
+}
+.padding-left-l {
+  padding-left: 25px;
+}
+.padding-left-xl {
+  padding-left: 50px;
+}
+.no-padding-left {
+  padding-left: 0;
+}
+.no-padding-right {
+  padding-right: 0;
+}
+.no-padding-top {
+  padding-top: 0;
+}
+.no-padding-bottom {
+  padding-bottom: 0;
+}
+.margin-top-s {
+  margin-top: 5px;
+}
+.margin-top-m {
+  margin-top: 10px;
+}
+.margin-top-l {
+  margin-top: 25px;
+}
+.margin-top-xl {
+  margin-top: 50px;
+}
+.margin-bottom-s {
+  margin-bottom: 5px;
+}
+.margin-bottom-m {
+  margin-bottom: 10px;
+}
+.margin-bottom-l {
+  margin-bottom: 25px;
+}
+.margin-bottom-xl {
+  margin-bottom: 50px;
+}
+.margin-right-s {
+  margin-right: 5px;
+}
+.margin-right-m {
+  margin-right: 10px;
+}
+.margin-right-l {
+  margin-right: 25px;
+}
+.margin-right-xl {
+  margin-right: 50px;
+}
+.margin-left-s {
+  margin-left: 5px;
+}
+.margin-left-m {
+  margin-left: 10px;
+}
+.margin-left-l {
+  margin-left: 25px;
+}
+.margin-left-xl {
+  margin-left: 50px;
+}
+.no-margin-left {
+  margin-left: 0 !important;
+}
+.no-margin-right {
+  margin-right: 0 !important;
+}
+.no-margin-bottom {
+  margin-bottom: 0 !important;
+}
+.no-margin-top {
+  margin-top: 0 !important;
+}
 body {
   overflow-x: hidden;
-  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 .text-muted {
   color: #777777;
@@ -101,7 +224,7 @@ fieldset[disabled] .btn-primary.active {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  border-radius: 3px;
+  border-radius: 0;
   font-size: 18px;
   padding: 20px 40px;
 }
@@ -234,7 +357,7 @@ header .intro-text {
   padding-bottom: 50px;
 }
 header .intro-text .intro-lead-in {
-  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-style: italic;
   font-size: 22px;
   line-height: 22px;
@@ -254,7 +377,7 @@ header .intro-text .intro-heading {
     padding-bottom: 200px;
   }
   header .intro-text .intro-lead-in {
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-style: italic;
     font-size: 40px;
     line-height: 40px;
@@ -269,17 +392,20 @@ header .intro-text .intro-heading {
     margin-bottom: 50px;
   }
 }
-section {
-  padding: 100px 0;
+section,
+aside {
+  padding: 50px 0;
 }
-section h2.section-heading {
+section h2.section-heading,
+aside h2.section-heading {
   font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
 }
-section h3.section-subheading {
+section h3.section-subheading,
+aside h3.section-subheading {
   font-size: 16px;
-  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   text-transform: none;
   font-style: italic;
   font-weight: 400;
@@ -341,7 +467,7 @@ section h3.section-subheading {
   margin: 0;
 }
 #mindwalker .portfolio-item .portfolio-caption p {
-  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-style: italic;
   font-size: 16px;
   margin: 0;
@@ -353,6 +479,17 @@ section h3.section-subheading {
   #mindwalker .portfolio-item {
     margin: 0 0 30px;
   }
+}
+#cybathlon .cybathlon-subitems {
+  padding-top: 50px;
+}
+#cybathlon .cybathlon-subitems h4 {
+  margin-top: 0;
+  padding-top: 4px;
+  margin-left: 60px;
+}
+#cybathlon .cybathlon-subitems p {
+  margin-left: 60px;
 }
 .timeline {
   list-style: none;
@@ -531,6 +668,9 @@ section h3.section-subheading {
   margin: 0 auto;
   border: 7px solid white;
 }
+.team-member img.img-large {
+  width: 300px;
+}
 .team-member h4 {
   margin-top: 25px;
   margin-bottom: 0;
@@ -539,14 +679,22 @@ section h3.section-subheading {
 .team-member p {
   margin-top: 0;
 }
+aside.partners h3.section-subheading {
+  margin-bottom: 0;
+}
 aside.partners img {
-  margin: 50px auto;
+  margin: 25px auto;
 }
 section#contact {
   background-color: #222222;
   background-image: url('../img/map-image.png');
   background-position: center;
   background-repeat: no-repeat;
+}
+section#contact .contact-details {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 15px;
+  color: white;
 }
 section#contact .section-heading {
   color: white;
@@ -661,7 +809,7 @@ ul.social-buttons li a:active {
 }
 .portfolio-modal .modal-content p.item-intro {
   margin: 20px 0 30px;
-  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-style: italic;
   font-size: 16px;
 }

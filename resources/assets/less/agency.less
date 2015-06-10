@@ -1,5 +1,6 @@
 @import "variables.less";
 @import "mixins.less";
+@import "utilities.less";
 
 // Global Components
 
@@ -73,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
   .button-variant(white; @brand-primary; @brand-primary);
   .heading-font;
   font-weight: 700;
-  border-radius: 3px;
+  border-radius: 0;
   font-size: 18px;
   padding: 20px 40px;
 }
@@ -215,8 +216,8 @@ header {
 
 // Global Section Styles
 
-section {
-  padding: 100px 0;
+section, aside {
+  padding: 50px 0;
   h2.section-heading {
     font-size: 40px;
     margin-top: 0;
@@ -241,7 +242,7 @@ section {
 
 // Portfolio Section
 
-#portfolio {
+#mindwalker {
   .portfolio-item {
     margin: 0 0 15px;
     right: 0;
@@ -305,9 +306,24 @@ section {
 }
 
 @media (min-width: 767px) {
-  #portfolio {
+  #mindwalker {
     .portfolio-item {
       margin: 0 0 30px;
+    }
+  }
+}
+
+// Cybathlon
+#cybathlon {
+  .cybathlon-subitems {
+    padding-top: 50px;
+    h4 {
+      margin-top: 0;
+      padding-top: 4px;
+      margin-left: 60px;
+    }
+    p {
+      margin-left: 60px;
     }
   }
 }
@@ -505,6 +521,9 @@ section {
     overflow: hidden;
     margin: 0 auto;
     border: 7px solid white;
+    &.img-large {
+      width: 300px;
+    }
   }
   h4 {
     margin-top: 25px;
@@ -518,9 +537,12 @@ section {
 
 // Clients Aside
 
-aside.clients {
+aside.partners {
+  h3.section-subheading {
+    margin-bottom: 0;
+  }
   img {
-    margin: 50px auto;
+    margin: 25px auto;
   }
 }
 
@@ -531,6 +553,11 @@ section#contact {
   background-image: url('../img/map-image.png');
   background-position: center;
   background-repeat: no-repeat;
+  .contact-details {
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 15px;
+    color: white;
+  }
   .section-heading {
     color: white;
   }
