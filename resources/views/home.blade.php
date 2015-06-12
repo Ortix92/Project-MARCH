@@ -330,7 +330,7 @@
         <!-- Team Section -->
         @include('partials.team')
         <!-- Partners Aside -->
-        <aside class="partners">
+        <aside id="partners" class="partners">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
