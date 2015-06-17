@@ -18,16 +18,16 @@
                         <img class="img-responsive img-centered" src="img/portfolio/roundicons-free.png" alt="">
 
                         <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing
-                           elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam
-                           quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis
-                           facere nemo!</p>
+                            elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam
+                            quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis
+                            facere nemo!</p>
 
                         <p>
                             <strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them
-                                                                                            for free, courtesy of <a
+                            for free, courtesy of <a
                                     href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>,
-                                                                                            or you can purchase the 1500
-                                                                                            icon set <a
+                            or you can purchase the 1500
+                            icon set <a
                                     href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
                         <ul class="list-inline">
                             <li>Date: July 2014</li>
@@ -114,9 +114,9 @@
                         <img class="img-responsive img-centered" src="img/portfolio/treehouse-preview.png" alt="">
 
                         <p>Treehouse is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan
-                                                                                                                        Jaya</a>.
-                           This is bright and spacious design perfect for people or startup companies
-                           looking to showcase their apps or other projects.</p>
+                                Jaya</a>.
+                            This is bright and spacious design perfect for people or startup companies
+                            looking to showcase their apps or other projects.</p>
 
                         <p>You can download the PSD template in this portfolio sample item at <a
                                     href="http://freebiesxpress.com/gallery/treehouse-free-psd-web-template/">FreebiesXpress.com</a>.
@@ -160,11 +160,11 @@
                                     </div>
                                     <div class="timeline-body">
                                         <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                                              Sunt ut
-                                                              voluptatum eius sapiente, totam reiciendis temporibus qui
-                                                              quibusdam, recusandae sit
-                                                              vero unde, sed, incidunt et ea quo dolore laudantium
-                                                              consectetur!</p>
+                                            Sunt ut
+                                            voluptatum eius sapiente, totam reiciendis temporibus qui
+                                            quibusdam, recusandae sit
+                                            vero unde, sed, incidunt et ea quo dolore laudantium
+                                            consectetur!</p>
                                     </div>
                                 </div>
                             </li>
@@ -179,11 +179,11 @@
                                     </div>
                                     <div class="timeline-body">
                                         <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                                              Sunt ut
-                                                              voluptatum eius sapiente, totam reiciendis temporibus qui
-                                                              quibusdam, recusandae sit
-                                                              vero unde, sed, incidunt et ea quo dolore laudantium
-                                                              consectetur!</p>
+                                            Sunt ut
+                                            voluptatum eius sapiente, totam reiciendis temporibus qui
+                                            quibusdam, recusandae sit
+                                            vero unde, sed, incidunt et ea quo dolore laudantium
+                                            consectetur!</p>
                                     </div>
                                 </div>
                             </li>
@@ -198,11 +198,11 @@
                                     </div>
                                     <div class="timeline-body">
                                         <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                                              Sunt ut
-                                                              voluptatum eius sapiente, totam reiciendis temporibus qui
-                                                              quibusdam, recusandae sit
-                                                              vero unde, sed, incidunt et ea quo dolore laudantium
-                                                              consectetur!</p>
+                                            Sunt ut
+                                            voluptatum eius sapiente, totam reiciendis temporibus qui
+                                            quibusdam, recusandae sit
+                                            vero unde, sed, incidunt et ea quo dolore laudantium
+                                            consectetur!</p>
                                     </div>
                                 </div>
                             </li>
@@ -264,10 +264,10 @@
                         <img class="img-responsive img-centered" src="img/portfolio/escape-preview.png" alt="">
 
                         <p>Escape is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan
-                                                                                                                     Jaya</a>.
-                           Escape is a one page web template that was designed with agencies in mind.
-                           This template is ideal for those looking for a simple one page solution to describe your
-                           business and offer your services.</p>
+                                Jaya</a>.
+                            Escape is a one page web template that was designed with agencies in mind.
+                            This template is ideal for those looking for a simple one page solution to describe your
+                            business and offer your services.</p>
 
                         <p>You can download the PSD template in this portfolio sample item at <a
                                     href="http://freebiesxpress.com/gallery/escape-one-page-psd-web-template/">FreebiesXpress.com</a>.
@@ -302,13 +302,77 @@
                         <img class="img-responsive img-centered" src="img/portfolio/dreams-preview.png" alt="">
 
                         <p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan
-                                                                                                                     Jaya</a>.
-                           Dreams is a modern one page web template designed for almost any purpose. It’s
-                           a beautiful template that’s designed with the Bootstrap framework in mind.</p>
+                                Jaya</a>.
+                            Dreams is a modern one page web template designed for almost any purpose. It’s
+                            a beautiful template that’s designed with the Bootstrap framework in mind.</p>
 
                         <p>You can download the PSD template in this portfolio sample item at <a
                                     href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.
                         </p>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
+                            Close
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Partner-->
+<div class="portfolio-modal modal fade" id="partnerModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <!-- Project Details Go Here -->
+                        <h2>Partner up with Project MARCH</h2>
+
+                        <p class="item-intro text-muted">And be a part of our story.</p>
+                        <img class="img-responsive img-centered" src="http://placehold.it/720x250" alt="">
+
+                        <p>
+                            Project MARCH is the upcoming prestigious Dream Team of the Delft University of Technology.
+                            With a group of ambitious students of different backgrounds, we are making Delft’s first
+                            exoskeleton. Our mission is to give paraplegics a second chance to walk again with the
+                            assistance of our
+                            exoskeleton. We want to remove barriers between the public, people with disabilities and
+                            science with our project.
+                        </p>
+
+                        <p>
+                            Our goal is to compete and win the Cybathlon 2016 in Zurich! The Cybathlon is a
+                            tournament for racing pilots with disabilities who are using advanced assistive devices
+                            including robotic technologies.
+                        </p>
+
+                        <p>
+                            As a partner you can be a part of this! There are several ways you can contribute to our
+                            project. In return for your financial or material support, we can make you an offer covering
+                            marketing and communication goals. Since we are a new Student Team, there will be a lot of
+                            eyes focused on us from both the university and the media. As a partner you will
+                            get a high-tech and socially responsible image. Besides your imago, you will
+                            increase your network with ambitious future engineers.
+                        </p>
+
+                        <p>
+                            Do you want to contribute in a new project where students push the boundaries of technolgy?
+                            Do you want to help us achieving our goal to help disabled people walk again?
+                            Do you want to be a part of an ambitious team and win the Cybathlon of 2016?
+                            Contact us either through our contact form or directly through email or phone:
+                        </p>
+
+                        <h2 class="text-center">Contact Information</h2>
+                        <hr>
+                        <h4 class="text-center">Telephone: +31623115550</h4>
+                        <h4 class="text-center">Email: info@projectmarch.com</h4>
                         <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
                             Close
                         </button>

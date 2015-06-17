@@ -9,7 +9,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Movingbird - Building an Exo-Skeleton</title>
+        <title>Project MARCH - Building an Exo-Skeleton</title>
 
         <!-- Bootstrap Core CSS -->
         <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
@@ -52,7 +52,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand page-scroll" href="#page-top">MOVINGBIRD</a>
+                    <a class="navbar-brand page-scroll" href="#page-top">Project MARCH</a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
@@ -65,7 +65,7 @@
                             <a class="page-scroll" href="#about">About</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#mindwalker">Mindwalker</a>
+                            <a class="page-scroll" href="#mindwalker">MARCH</a>
                         </li>
                         <li>
                             <a class="page-scroll" href="#cybathlon">Cybathlon 2016</a>
@@ -92,7 +92,7 @@
                 <div class="intro-text">
                     <div class="intro-lead-in">The new Dream Team</div>
                     <div class="intro-heading">Building <br/> an Exo-Skeleton</div>
-                    <a href="#services" class="page-scroll btn btn-xl">Learn More</a>
+                    <a href="#about" class="page-scroll btn btn-xl">Learn More</a>
                 </div>
             </div>
         </header>
@@ -162,7 +162,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="section-heading">The Mindwalker</h2>
+                        <h2 class="section-heading">Project MARCH</h2>
 
                         <h3 class="section-subheading text-muted">Bringing tomorrow another step closer</h3>
                     </div>
@@ -336,7 +336,7 @@
                     <div class="col-lg-12 text-center">
                         <h2 class="section-heading">Our Partners</h2>
 
-                        <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                        <h3 class="section-subheading text-muted">These are the amazing people we work with.</h3>
                     </div>
                     <div class="col-md-4">
                         <a href="#">
@@ -356,7 +356,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 text-center padding-top-l">
-                        <a href="#" class="btn btn-xl">Become a partner</a>
+                        <a href="#partnerModal" class="btn btn-xl" data-toggle="modal">Become a partner</a>
                     </div>
                 </div>
             </div>
@@ -368,8 +368,6 @@
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <h2 class="section-heading">Contact Us</h2>
-
-                        <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                     </div>
                 </div>
                 <div class="row">
@@ -410,16 +408,16 @@
                                 <div class="col-md-5">
                                     <div class="contact-details">
                                         <p>
-                                            The symbitron team is located in the dream hall on the campus of the Delft
+                                            The Project MARCH team is located in the dream hall on the campus of the Delft
                                             University of Technology. We are reachable at the following address below.
                                         </p>
 
                                         <p class="text-right">
-                                            Mekelweg 01<br/>
-                                            2628CD <br/>
+                                            Stevinweg 4<br/>
+                                            2628CN <br/>
                                             Delft <br/>
-                                            01512312312<br/>
-                                            info@movingbird.nl
+                                            +31 (0)15 27 86802<br/>
+                                            info@projectmarch.com
                                         </p>
                                     </div>
                                 </div>
@@ -439,7 +437,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">
-                        <span class="copyright">Copyright &copy; Movingbird 2014</span>
+                        <span class="copyright">Copyright &copy; Project MARCH 2014</span>
                     </div>
                     <div class="col-md-4">
                         <ul class="list-inline social-buttons">
@@ -462,9 +460,6 @@
                 </div>
             </div>
         </footer>
-
-        <!-- Portfolio Modals -->
-        <!-- Use the modals below to showcase details about your portfolio projects! -->
 
         <!-- Portfolio Modal 1 -->
         @include('partials.modals')
