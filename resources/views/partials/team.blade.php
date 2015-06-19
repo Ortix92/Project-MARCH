@@ -21,7 +21,7 @@
         <div class="row">
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="https://media.licdn.com/media/p/3/000/1eb/335/049bcc5.jpg"
+                    <img src="{{asset('img/team/jelle.jpg')}}"
                          class="img-responsive img-circle" alt="">
                     <h4>Jelle Sturkenboom</h4>
 
@@ -30,7 +30,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="https://scontent-ams3-1.xx.fbcdn.net/hphotos-xft1/t31.0-8/11336880_788314024621283_8908558740343504645_o.jpg"
+                    <img src="{{asset('img/team/nick.jpg')}}"
                          class="img-responsive img-circle" alt="">
                     <h4>Nick Tsutsunava</h4>
 
@@ -39,7 +39,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="http://placehold.it/300" class="img-responsive img-circle" alt="">
+                    <img src="{{asset('img/team/samir.jpg')}}" class="img-responsive img-circle" alt="">
                     <h4>Samir den Haan</h4>
 
                     <p class="text-muted">Mechanical Engineer</p>
@@ -47,7 +47,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="http://placehold.it/300" class="img-responsive img-circle" alt="">
+                    <img src="{{asset('img/team/nathan.jpg')}}" class="img-responsive img-circle" alt="">
                     <h4>Nathan Fopma</h4>
 
                     <p class="text-muted">Mechanical Engineer</p>
@@ -55,7 +55,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="http://placehold.it/300" class="img-responsive img-circle" alt="">
+                    <img src="{{asset('img/team/alex.jpg')}}" class="img-responsive img-circle" alt="">
                     <h4>Alexander Mentink</h4>
 
                     <p class="text-muted">Sponsoring</p>
@@ -63,7 +63,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="http://placehold.it/300" class="img-responsive img-circle" alt="">
+                    <img src="{{asset('img/team/arnela.jpg')}}" class="img-responsive img-circle" alt="">
                     <h4>Arnela Masic</h4>
 
                     <p class="text-muted">Control Theory</p>
@@ -71,7 +71,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="http://placehold.it/300" class="img-responsive img-circle" alt="">
+                    <img src="{{asset('img/team/wouter.jpg')}}" class="img-responsive img-circle" alt="">
                     <h4>Wouter Jongeneel</h4>
 
                     <p class="text-muted">Ergonomics</p>
@@ -79,7 +79,7 @@
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="http://placehold.it/300" class="img-responsive img-circle" alt="">
+                    <img src="{{asset('img/team/evan.jpg')}}" class="img-responsive img-circle" alt="">
                     <h4>Evan de Vlieger</h4>
 
                     <p class="text-muted">Mechanical Engineer</p>
