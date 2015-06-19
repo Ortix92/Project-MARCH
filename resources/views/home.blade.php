@@ -408,7 +408,7 @@
                                 <div class="col-md-5">
                                     <div class="contact-details">
                                         <p>
-                                            The Project MARCH team is located in the dream hall on the campus of the Delft
+                                            Project MARCH is located in the dream hall on the campus of the Delft
                                             University of Technology. We are reachable at the following address below.
                                         </p>
 
@@ -417,7 +417,7 @@
                                             2628CN <br/>
                                             Delft <br/>
                                             +31 (0)15 27 86802<br/>
-                                            info@projectmarch.com
+                                            info@projectmarch.nl
                                         </p>
                                     </div>
                                 </div>
