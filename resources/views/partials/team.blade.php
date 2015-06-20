@@ -7,7 +7,7 @@
                 <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
             </div>
         </div>
-        <div class="row">
+        <div class="row hidden">
             <div class="col-sm-12">
                 <div class="team-member">
                     <img src="http://placehold.it/300"
@@ -86,7 +86,7 @@
                 </div>
             </div>
             <div class="col-sm-4">
-                <div class="team-member">
+                <div class="team-member hidden">
                     <img src="http://placehold.it/300" class="img-responsive img-circle" alt="">
                     <h4>Die ene dude</h4>
 
@@ -96,9 +96,8 @@
         </div>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque,
-                                            laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea,
-                                            alias ut unde.</p>
+                <p class="large text-muted">This team is devoted and dedicated to win the first prize at the Cybathlon
+                    2016 in Zurich.</p>
             </div>
         </div>
     </div>

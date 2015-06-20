@@ -12,28 +12,20 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
                         <!-- Project Details Go Here -->
-                        <h2>Project Name</h2>
+                        <h2>The Pilot</h2>
 
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/roundicons-free.png" alt="">
+                        <p class="item-intro text-muted">Who will control the exoskeleton?</p>
+                        <img class="img-responsive img-centered" src="img/portfolio/the_pilot_full.jpg" alt="">
 
-                        <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam
-                            quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis
-                            facere nemo!</p>
+                        <p>In the next couple of weeks, the pilot of the exoskeleton will be selected among several
+                            paraplegic patients. We are working closely with Radboud UMC to select the right canditate.
+                            He/she will be the main character of the team and will be involved
+                            intensively in the project over the coming year. In addition, a national documentary will
+                            be created by an external company about his/her life from the start of the project until the
+                            exoskeleton race during the Cybathlon 2016.
+                            More information will be available when the pilot has been selected.
+                        </p>
 
-                        <p>
-                            <strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them
-                            for free, courtesy of <a
-                                    href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>,
-                            or you can purchase the 1500
-                            icon set <a
-                                    href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
-                        <ul class="list-inline">
-                            <li>Date: July 2014</li>
-                            <li>Client: Round Icons</li>
-                            <li>Category: Graphic Design</li>
-                        </ul>
                         <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
                             Close
                         </button>
@@ -57,33 +49,32 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <h2>Project Heading</h2>
+                        <h2>The Technology</h2>
 
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/startup-framework-preview.png"
+                        <p class="item-intro text-muted">A look inside the MARCH</p>
+                        <img class="img-responsive img-centered" src="http://placehold.it/700x200"
                              alt="">
 
-                        <p><a href="http://designmodo.com/startup/?u=787">Startup Framework</a>
-                            is a website builder for
-                            professionals. Startup
-                            Framework contains
-                            components and complex
-                            blocks (PSD+HTML
-                            Bootstrap
-                            themes and templates)
-                            which can easily be
-                            integrated into almost
-                            any design. All of these
-                            components are made in
-                            the same style, and can
-                            easily be integrated
-                            into projects, allowing
-                            you to create hundreds
-                            of solutions for your
-                            future projects.</p>
-
-                        <p>You can preview Startup Framework <a href="http://designmodo.com/startup/?u=787">here</a>.
+                        <p>
+                            The "MARCH" exoskeleton will be based upon the design of it's predecessor: "Mindwalker".
+                            Drastic improvements are to be made however, to ensure the MARCH will be one of a kind
+                            prototype capable of reshaping paraplegic healthcare as we know it today.
                         </p>
+
+                        <p>
+                            The suit is currently powered by 6 electronic actuators to simulate the hip and knee joints,
+                            which are all connected to an EtherCAT master interface which, in turn, is controlled using
+                            Simulink. The user controls the actions of the suit by displacing his/her center of mass. It
+                            has been shown that both healthy and paraplegic pilots can easily control their actions in
+                            such a way. The Mindwalker is an advanced machine, but for MARCH, it does not stop there. In
+                            pursuit of D:DREAM status, we intend to not just realise an advanced machine, but realise an
+                            extremely advanced machine. For instance, research conducted on the Mindwalker suggested
+                            algorithms to control hip ab/adduction may improve stability. And already, the team is
+                            bringing forth many other ideas including adding an extra joint in the ankles for a wider
+                            range of possible movements to adding advanced self-learning algorithms helping both MARCH
+                            and it's pilot in "learning to walk again".
+                        </p>
+
                         <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
                             Close
                         </button>
@@ -108,18 +99,34 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
                         <!-- Project Details Go Here -->
-                        <h2>Project Name</h2>
+                        <h2>Symbitron</h2>
 
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/treehouse-preview.png" alt="">
+                        <p class="item-intro text-muted">The research behind the exoskeleton</p>
+                        <img class="img-responsive img-centered" src="http://placehold.it/700x200" alt="">
 
-                        <p>Treehouse is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan
-                                Jaya</a>.
-                            This is bright and spacious design perfect for people or startup companies
-                            looking to showcase their apps or other projects.</p>
+                        <p>
+                            The symbitron project is a European research group that strive to overcome the existing
+                            technical limitations of powered exoskeletons, to enhance state-of-the-art knowledge on
+                            walking, balance and
+                            man-machine interaction, and thereby to bring independent walking with tailor-fitted,
+                            wearable exoskeletons within reach of the patient.</p>
 
-                        <p>You can download the PSD template in this portfolio sample item at <a
-                                    href="http://freebiesxpress.com/gallery/treehouse-free-psd-web-template/">FreebiesXpress.com</a>.
+                        <p>
+                            They goal is for a patient-driven methodology in which the design and control of the
+                            wearable exoskeleton and the interface between the exoskeleton and patient are customized to
+                            the unique features (impairments and remaining capacities) of each individual patient.
+                            Their ambition is to give each personalized exoskeleton human-like neuromuscular properties
+                            resulting in a paradigm shift in the field of robot-assisted living. They aim to restore
+                            natural symbiotic interactions between paralysed legs and the rest of the body, by
+                            optimizing tailor made biological inspired wearable exoskeletons and symbiotic man-machine
+                            interactions. With this novel approach they expect a breakthrough in the achievements and
+                            application of wearable exoskeleton technology for people with gait disorders.
+
+                        </p>
+
+                        <p>More information on the Symbitron research can be found on their project website.
+                            <a href="http://www.symbitron.eu">http://www.symbitron .eu
+                            </a>
                         </p>
                         <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
                             Close
@@ -145,32 +152,28 @@
                 <div class="col-lg-12">
                     <div class="modal-body">
                         <!-- Project Details Go Here -->
-                        <h2>Project Name</h2>
+                        <h2>Progress</h2>
 
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                        <p class="item-intro text-muted">A quick timeline of our progress</p>
                         <ul class="timeline">
                             <li>
                                 <div class="timeline-image">
-                                    <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                                    <img class="img-circle img-responsive" src="http://placehold.it/200" alt="">
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
-                                        <h4>2009-2011</h4>
-                                        <h4 class="subheading">Our Humble Beginnings</h4>
+                                        <h4>2011</h4>
+                                        <h4 class="subheading">The beginning</h4>
                                     </div>
                                     <div class="timeline-body">
-                                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                            Sunt ut
-                                            voluptatum eius sapiente, totam reiciendis temporibus qui
-                                            quibusdam, recusandae sit
-                                            vero unde, sed, incidunt et ea quo dolore laudantium
-                                            consectetur!</p>
+                                        <p class="text-muted">The start of the exoskeleton suit by a collaboration
+                                            between Delft University of Technology and Univeristy of Twente</p>
                                     </div>
                                 </div>
                             </li>
                             <li class="timeline-inverted">
                                 <div class="timeline-image">
-                                    <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
+                                    <img class="img-circle img-responsive" src="http://placehold.it/200" alt="">
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
@@ -189,7 +192,7 @@
                             </li>
                             <li>
                                 <div class="timeline-image">
-                                    <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
+                                    <img class="img-circle img-responsive" src="http://placehold.it/200" alt="">
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
@@ -208,7 +211,7 @@
                             </li>
                             <li class="timeline-inverted">
                                 <div class="timeline-image">
-                                    <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
+                                    <img class="img-circle img-responsive" src="http://placehold.it/200" alt="">
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
@@ -227,9 +230,11 @@
                             </li>
                             <li class="timeline-inverted">
                                 <div class="timeline-image">
-                                    <h4>Be Part
-                                        <br>Of Our
-                                        <br>Story!</h4>
+                                    <a href="#partners">
+                                        <h4>Be Part
+                                            <br>Of Our
+                                            <br>Story!</h4>
+                                    </a>
                                 </div>
                             </li>
                         </ul>
@@ -258,56 +263,17 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
                         <!-- Project Details Go Here -->
-                        <h2>Project Name</h2>
+                        <h2>Media</h2>
+                        <hr>
+                        <div class="media-video">
+                            <h3 class="text-item-title">The early version of MARCH, The Mindwalker</h3>
+                            <iframe width="420" height="315" src="https://www.youtube.com/embed/d8PnOcsgtKs"
+                                    frameborder="0"
+                                    allowfullscreen></iframe>
+                        </div>
 
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/escape-preview.png" alt="">
-
-                        <p>Escape is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan
-                                Jaya</a>.
-                            Escape is a one page web template that was designed with agencies in mind.
-                            This template is ideal for those looking for a simple one page solution to describe your
-                            business and offer your services.</p>
-
-                        <p>You can download the PSD template in this portfolio sample item at <a
-                                    href="http://freebiesxpress.com/gallery/escape-one-page-psd-web-template/">FreebiesXpress.com</a>.
-                        </p>
-                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
-                            Close
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!--Stuurgroep-->
-<div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <!-- Project Details Go Here -->
-                        <h2>Project Name</h2>
-
-                        <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                        <img class="img-responsive img-centered" src="img/portfolio/dreams-preview.png" alt="">
-
-                        <p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan
-                                Jaya</a>.
-                            Dreams is a modern one page web template designed for almost any purpose. It’s
-                            a beautiful template that’s designed with the Bootstrap framework in mind.</p>
-
-                        <p>You can download the PSD template in this portfolio sample item at <a
-                                    href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.
+                        <p>
+                            More videos and images will be posted as we work on MARCH throughout the year.
                         </p>
                         <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
                             Close
