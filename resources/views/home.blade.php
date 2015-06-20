@@ -90,7 +90,7 @@
 <header>
     <div class="container">
         <div class="intro-text">
-            <div class="intro-lead-in">The new Dream Team</div>
+            <div class="intro-lead-in">The new Student Team</div>
             <div class="intro-heading">Building <br/> an Exo-Skeleton</div>
             <a href="#about" class="page-scroll btn btn-xl">Learn More</a>
         </div>
@@ -279,31 +279,37 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Cybathlon 2016</h2>
+                <h3 class="section-subheading text-muted">The race to Zurich</h3>
 
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
                 <div class="col-md-6">
-                    <img src="http://placehold.it/500x322"/>
+                    <img class="img-responsive" src="http://placehold.it/500x322"/>
                 </div>
                 <div class="col-md-6">
-                    <h3>The Competition</h3>
+                    <h3 class="no-margin-top">The Competition</h3>
 
                     <p>
-                        In vulputate, nisl ac dignissim venenatis, nisi lacus dignissim metus, sit amet
-                        elementum risus mi id velit. Sed eget felis et libero viverra dapibus quis in libero.
-                        Maecenas velit risus. Proactively fabricate one-to-one materials via effective
-                        e-business. Cras eget risus erat. Pellentesque placerat turpis eu mi sagittis cursus non
-                        vitae ante.
-                    </p>
+                        The Cybathlon 2016 is the first bionic championships for advanced assisted devices that aim to
+                        aid the physically impaired and paraplegics. The Cybathlon is a platform for 6 disciplines that
+                        represent a wide range of prosthetic technology supporting those within society whose life has
+                        been affected by their injury. The disciplines are powered knee prostheses, wearable arm
+                        prostheses, powered exoskeletons, powered wheelchairs, electrically stimulated muscles and
+                        brain-computer interfaces. The competing devices that are entered by competitors are driven by a
+                        pilot fitting specific physical disability. The devices can be commercially available products
+                        provided by companies but also prototypes developed by research labs. Competitors in the
+                        disciplines try to excel in their own field of research and technology and thereby set the bar
+                        for future research.</p>
 
                     <p>
-                        Proactively fabricate one-to-one materials via effective
-                        e-business. Cras eget risus erat. Pellentesque placerat turpis eu mi sagittis cursus non
-                        vitae ante.
+                        The main goal of the Cybathlon is to provide a platform for the development of novel assistive
+                        technologies that are useful for daily life. By organizing the Cybathlon they want to help
+                        remove barriers between the public, people with disabilities and science.
+
                     </p>
+
                     <hr>
                 </div>
                 <div class="clearfix"></div>

@@ -480,6 +480,9 @@ aside h3.section-subheading {
     margin: 0 0 30px;
   }
 }
+#cybathlon .section-subheading {
+  margin-bottom: 40px;
+}
 #cybathlon .cybathlon-subitems {
   padding-top: 50px;
 }
