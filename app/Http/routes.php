@@ -11,6 +11,15 @@
 |
 */
 
-Route::get('/', function() {
+Route::get('/', function () {
     return view('home');
+});
+
+Route::post('contact', function () {
+    $data = Request::all();
+    \Mail::send('emails.contact', $data, function ($m) {
+        $m->from('contact@projectmarch.nl');
+        $m->to('info@projectmarch.nl')->subject('New contact!');
+    });
+    return '1';
 });
