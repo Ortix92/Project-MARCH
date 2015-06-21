@@ -166,8 +166,8 @@
                                         <h4 class="subheading">The beginning</h4>
                                     </div>
                                     <div class="timeline-body">
-                                        <p class="text-muted">The start of the exoskeleton suit by a collaboration
-                                            between Delft University of Technology and Univeristy of Twente</p>
+                                        <p class="text-muted">The start of the exoskeleton suit through a collaboration
+                                            between Delft University of Technology, Univeristy of Twente and Radboud UMC</p>
                                     </div>
                                 </div>
                             </li>
@@ -177,16 +177,13 @@
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
-                                        <h4>March 2011</h4>
-                                        <h4 class="subheading">An Agency is Born</h4>
+                                        <h4>August 2014</h4>
+                                        <h4 class="subheading">Mindwalker Concluded</h4>
                                     </div>
                                     <div class="timeline-body">
-                                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                            Sunt ut
-                                            voluptatum eius sapiente, totam reiciendis temporibus qui
-                                            quibusdam, recusandae sit
-                                            vero unde, sed, incidunt et ea quo dolore laudantium
-                                            consectetur!</p>
+                                        <p class="text-muted">
+                                            More information coming soon!
+                                        </p>
                                     </div>
                                 </div>
                             </li>
@@ -196,16 +193,13 @@
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
-                                        <h4>December 2012</h4>
-                                        <h4 class="subheading">Transition to Full Service</h4>
+                                        <h4>March 2015</h4>
+                                        <h4 class="subheading">New Student Team</h4>
                                     </div>
                                     <div class="timeline-body">
-                                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                            Sunt ut
-                                            voluptatum eius sapiente, totam reiciendis temporibus qui
-                                            quibusdam, recusandae sit
-                                            vero unde, sed, incidunt et ea quo dolore laudantium
-                                            consectetur!</p>
+                                        <p class="text-muted">
+                                            More information coming soon!
+                                        </p>
                                     </div>
                                 </div>
                             </li>
@@ -215,26 +209,21 @@
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
-                                        <h4>July 2014</h4>
-                                        <h4 class="subheading">Phase Two Expansion</h4>
+                                        <h4>July 2015</h4>
+                                        <h4 class="subheading">Mindwalker Renamed</h4>
                                     </div>
                                     <div class="timeline-body">
                                         <p class="text-muted">
-                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                            Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                                            quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore
-                                            laudantium consectetur!
+                                            More information coming soon!
                                         </p>
                                     </div>
                                 </div>
                             </li>
                             <li class="timeline-inverted">
                                 <div class="timeline-image">
-                                    <a href="#partners">
-                                        <h4>Be Part
-                                            <br>Of Our
-                                            <br>Story!</h4>
-                                    </a>
+                                    <h4>Be Part
+                                        <br>Of Our
+                                        <br>Story!</h4>
                                 </div>
                             </li>
                         </ul>

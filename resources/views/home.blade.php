@@ -52,7 +52,9 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">Project MARCH</a>
+            <a class="navbar-brand page-scroll" href="#page-top">
+                <img class="img-responsive" src="{{asset('img/logos/project_march.png')}}">
+            </a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -264,9 +266,9 @@
                 </a>
 
                 <div class="portfolio-caption">
-                    <h4>Stuurgroep</h4>
+                    <h4>Advisory Committee</h4>
 
-                    <p class="text-muted">Ja dat moeten we dus nog vertalen</p>
+                    <p class="text-muted">More information will follow soon.</p>
                 </div>
             </div>
         </div>
@@ -279,6 +281,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Cybathlon 2016</h2>
+
                 <h3 class="section-subheading text-muted">The race to Zurich</h3>
 
             </div>
@@ -286,7 +289,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="col-md-6">
-                    <img class="img-responsive" src="http://placehold.it/500x322"/>
+                    <img class="img-responsive" src="{{asset('img/cybathlon.jpg')}}"/>
                 </div>
                 <div class="col-md-6">
                     <h3 class="no-margin-top">The Competition</h3>
@@ -301,7 +304,9 @@
                         pilot fitting specific physical disability. The devices can be commercially available products
                         provided by companies but also prototypes developed by research labs. Competitors in the
                         disciplines try to excel in their own field of research and technology and thereby set the bar
-                        for future research.</p>
+                        for future research.
+
+                    </p>
 
                     <p>
                         The main goal of the Cybathlon is to provide a platform for the development of novel assistive
@@ -318,19 +323,30 @@
                         <div class="pull-left"><i class="fa fa-institution fa-2x"></i></div>
                         <h4>Discpline</h4>
 
-                        <p>Lorem ipsum</p>
+                        <p>
+                            During the Cybathlon we will be competing in the Powered Exoskeleton Race. The pilot with
+                            have to perform tasks from daily life with the use of an exoskeleton.
+                        </p>
                     </div>
                     <div class="col-md-4">
                         <div class="pull-left"><i class="fa fa-code-fork fa-2x"></i></div>
                         <h4>Track</h4>
 
-                        <p>Lorem ipsum</p>
+                        <p>
+                            The track consists of six tasks that are often encountered in daily life that now pose as
+                            obstacles. These obstacles are, sitting and standing up from a sofa, balancing on a beam,
+                            walking up a ramp, stepping over flat pillars, a tilted uneven terrain and a set of stairs.
+
+                        </p>
                     </div>
                     <div class="col-md-4">
                         <div class="pull-left"><i class="fa fa-clock-o fa-2x"></i></div>
                         <h4>Time and Place</h4>
 
-                        <p>The Cybathlon will be held in Zurich on october 3rd 2016.</p>
+                        <p>
+                            The Cybathlon will be held in the Kolping Arena in Zurich on October 8th 2016.
+
+                        </p>
                     </div>
                 </div>
             </div>
@@ -461,7 +477,7 @@
                 </ul>
             </div>
             <div class="col-md-4">
-                <ul class="list-inline quicklinks">
+                <ul class="list-inline quicklinks hidden">
                     <li><a href="#">Privacy Policy</a>
                     </li>
                     <li><a href="#">Terms of Use</a>
