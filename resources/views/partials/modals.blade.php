@@ -327,7 +327,7 @@
                         <h2 class="text-center">Contact Information</h2>
                         <hr>
                         <h4 class="text-center">Telephone: +31623115550</h4>
-                        <h4 class="text-center">Email: info@projectmarch.com</h4>
+                        <h4 class="text-center">Email: info@projectmarch.nl</h4>
                         <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
                             Close
                         </button>
