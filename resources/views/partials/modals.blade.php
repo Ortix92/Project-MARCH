@@ -52,7 +52,7 @@
                         <h2>The Technology</h2>
 
                         <p class="item-intro text-muted">A look inside the MARCH</p>
-                        <img class="img-responsive img-centered" src="http://placehold.it/700x200"
+                        <img class="img-responsive img-centered" src="{{asset('img/portfolio/tech_full.jpg')}}"
                              alt="">
 
                         <p>
@@ -102,7 +102,7 @@
                         <h2>Symbitron</h2>
 
                         <p class="item-intro text-muted">The research behind the exoskeleton</p>
-                        <img class="img-responsive img-centered" src="http://placehold.it/700x200" alt="">
+                        <img class="img-responsive img-centered" src="{{asset('img/portfolio/symbitron_full.jpg')}}" alt="">
 
                         <p>
                             The symbitron project is a European research group that strive to overcome the existing
@@ -291,8 +291,6 @@
                         <h2>Partner up with Project MARCH</h2>
 
                         <p class="item-intro text-muted">And be a part of our story.</p>
-                        <img class="img-responsive img-centered" src="http://placehold.it/720x250" alt="">
-
                         <p>
                             Project MARCH is the upcoming prestigious Dream Team of the Delft University of Technology.
                             With a group of ambitious students of different backgrounds, we are making Delft’s first

@@ -194,7 +194,7 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="http://placehold.it/400x290" class="img-responsive" alt="">
+                    <img src="{{asset('img/portfolio/tech_preview.jpg')}}" class="img-responsive" alt="">
                 </a>
 
                 <div class="portfolio-caption">
@@ -210,7 +210,7 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="http://placehold.it/400x290" class="img-responsive" alt="">
+                    <img src="{{asset('img/portfolio/symbitron_preview.jpg')}}" class="img-responsive" alt="">
                 </a>
 
                 <div class="portfolio-caption">
@@ -224,13 +224,13 @@
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 portfolio-item">
-                <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                <a href="#portfolioModal4" class="portfolio-link">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="http://placehold.it/400x290" class="img-responsive" alt="">
+                    <img src="{{asset('img/portfolio/progress_preview.jpg')}}" class="img-responsive" alt="">
                 </a>
 
                 <div class="portfolio-caption">
@@ -246,7 +246,7 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="http://placehold.it/400x290" class="img-responsive" alt="">
+                    <img src="{{asset('img/portfolio/media_preview.jpg')}}" class="img-responsive" alt="">
                 </a>
 
                 <div class="portfolio-caption">
@@ -262,7 +262,7 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="http://placehold.it/400x290" class="img-responsive" alt="">
+                    <img src="{{asset('img/portfolio/advisory_preview.jpg')}}" class="img-responsive" alt="">
                 </a>
 
                 <div class="portfolio-caption">
@@ -366,19 +366,13 @@
                 <h3 class="section-subheading text-muted">These are the amazing people we work with.</h3>
             </div>
             <div class="col-md-4">
-                <a href="#">
-                    <img src="img/logos/tu_delft.jpg" class="img-responsive img-centered" alt="">
-                </a>
+                <img src="img/logos/tu_delft.jpg" class="img-responsive img-centered" alt="">
             </div>
             <div class="col-md-4">
-                <a href="#">
-                    <img src="img/logos/ut.jpg" class="img-responsive img-centered" alt="">
-                </a>
+                <img src="img/logos/ut.jpg" class="img-responsive img-centered" alt="">
             </div>
             <div class="col-md-4">
-                <a href="#">
-                    <img src="img/logos/radboud_umc.jpg" class="img-responsive img-centered" alt="">
-                </a>
+                <img src="img/logos/radboud_umc.jpg" class="img-responsive img-centered" alt="">
             </div>
         </div>
         <div class="row">
