@@ -56,23 +56,23 @@
                              alt="">
 
                         <p>
-                            The "MARCH" exoskeleton will be based upon the design of it's predecessor: "Mindwalker".
-                            Drastic improvements are to be made however, to ensure the MARCH will be one of a kind
-                            prototype capable of reshaping paraplegic healthcare as we know it today.
+                            The "MARCH" exoskeleton will be based upon the developments of its predecessor: the
+                            "Mindwalker". The latter suit has been developed by a collaboration between the Delft
+                            University of Technology and the Twente University of Technology using investments over
+                            €1.5m. Its main goal was to help paraplegic patients walk again using EEG brainwaves and in
+                            addition be as energy efficient as possible. During the project MARCH the team will use the
+                            knowledge gained from the Mindwalker and develop a new suit that will focus more on speed
+                            and versatility to outrun the competition during the Cybathlon.
+
                         </p>
 
                         <p>
-                            The suit is currently powered by 6 electronic actuators to simulate the hip and knee joints,
-                            which are all connected to an EtherCAT master interface which, in turn, is controlled using
-                            Simulink. The user controls the actions of the suit by displacing his/her center of mass. It
-                            has been shown that both healthy and paraplegic pilots can easily control their actions in
-                            such a way. The Mindwalker is an advanced machine, but for MARCH, it does not stop there. In
-                            pursuit of D:DREAM status, we intend to not just realise an advanced machine, but realise an
-                            extremely advanced machine. For instance, research conducted on the Mindwalker suggested
-                            algorithms to control hip ab/adduction may improve stability. And already, the team is
-                            bringing forth many other ideas including adding an extra joint in the ankles for a wider
-                            range of possible movements to adding advanced self-learning algorithms helping both MARCH
-                            and it's pilot in "learning to walk again".
+                            The Mindwalker is currently powered by 6 electronic actuators that stimulate the hip and
+                            knee joints. These actuators are all connected to an EtherCAT master interface which is
+                            controlled by software programmed by Simulink. The pilot is able to control the movement of
+                            the exoskeleton by both EEG brainwaves and by displacing his/her centre of mass. To improve
+                            speed and versatility, the team will use easier handling methods and include possible
+                            additional features, such as ankles and advanced self-learning movement algorithms.
                         </p>
 
                         <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
@@ -102,7 +102,8 @@
                         <h2>Symbitron</h2>
 
                         <p class="item-intro text-muted">The research behind the exoskeleton</p>
-                        <img class="img-responsive img-centered" src="{{asset('img/portfolio/symbitron_full.jpg')}}" alt="">
+                        <img class="img-responsive img-centered" src="{{asset('img/portfolio/symbitron_full.jpg')}}"
+                             alt="">
 
                         <p>
                             The symbitron project is a European research group that strive to overcome the existing
@@ -167,7 +168,8 @@
                                     </div>
                                     <div class="timeline-body">
                                         <p class="text-muted">The start of the exoskeleton suit through a collaboration
-                                            between Delft University of Technology, Univeristy of Twente and Radboud UMC</p>
+                                            between Delft University of Technology, Univeristy of Twente and Radboud
+                                            UMC</p>
                                     </div>
                                 </div>
                             </li>
@@ -291,6 +293,7 @@
                         <h2>Partner up with Project MARCH</h2>
 
                         <p class="item-intro text-muted">And be a part of our story.</p>
+
                         <p>
                             Project MARCH is the upcoming prestigious Dream Team of the Delft University of Technology.
                             With a group of ambitious students of different backgrounds, we are making Delft’s first
