@@ -460,9 +460,9 @@
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
-                    <li><a href="#"><i class="fa fa-twitter"></i></a>
+                    <li><a href="https://twitter.com/ProjectMARCH15"><i class="fa fa-twitter"></i></a>
                     </li>
-                    <li><a href="https://www.facebook.com/Symbitron"><i class="fa fa-facebook"></i></a>
+                    <li><a href="https://www.facebook.com/projectmarch"><i class="fa fa-facebook"></i></a>
                     </li>
                     <li><a href="#"><i class="fa fa-linkedin"></i></a>
                     </li>
