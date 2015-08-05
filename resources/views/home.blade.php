@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Project MARCH - Building an Exo-Skeleton</title>
+    <title>Project MARCH - Building an Exoskeleton</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
@@ -93,7 +93,7 @@
     <div class="container">
         <div class="intro-text">
             <div class="intro-lead-in">The new Student Team</div>
-            <div class="intro-heading">Building <br/> an Exo-Skeleton</div>
+            <div class="intro-heading">Building <br/> an Exoskeleton</div>
             <a href="#about" class="page-scroll btn btn-xl">Learn More</a>
         </div>
     </div>
@@ -132,8 +132,8 @@
                     </span>
                 <h4 class="service-heading">The Challenge</h4>
 
-                <p class="text-muted">From May 2015 till October 2016, the team will continue developing an existing
-                    exo-skeleton suit for a paraplegic patient. This patient will be the pilot of the Motor-Assisted
+                <p class="text-muted">From May 2015 till October 2016, the team will build and develop an exoskeleton
+                    for a paraplegic patient. This patient will be the pilot of the Motor-Assisted
                     Robotic Chassis for Humans (MARCH) and will take part in the first bionic championships, The
                     Cybathlon 2016 in Zürich. Since the race is set-up with multiple obstacles, one of the most
                     challenging parts of the project will be to upgrade the suit in versatility.
@@ -148,9 +148,11 @@
                 <h4 class="service-heading">Our Goal</h4>
 
                 <p class="text-muted">
-                    The main goal is to win the powered exoskeleton race of the Cybathlon 2016. To accomplish this goal
-                    the team will improve and adjust the exoskeleton in such manner that the pilot can outrun the
-                    competition during each obstacle of the race. Therefore, the team will focus on simplicity and easy
+                    Our goal is to give paraplegics back what is fundamentally human: walking. Enabling them to walk
+                    throughout the day will result in physical and mental benefits of unmeasurable proportions. This
+                    goal will be validated by participating in the Cybathlon. To accomplish this goal the team will
+                    develop the exoskeleton in such manner that the pilot can perform outstandingly on the Cybathlon
+                    course, which resembles daily life tasks. Therefore, the team will focus on simplicity and easy
                     handling combined with speed and agility.
                 </p>
             </div>
@@ -200,7 +202,8 @@
                 <div class="portfolio-caption">
                     <h4>The Technology</h4>
 
-                    <p class="text-muted">A closer look at the technology behind the future.</p>
+                    <p class="text-muted">Find out what goes into developing a powered exoskeleton and how we have an
+                        edge over our competition.</p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 portfolio-item">
@@ -282,26 +285,30 @@
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Cybathlon 2016</h2>
 
-                <h3 class="section-subheading text-muted">The race to Zurich</h3>
+                <h3 class="section-subheading text-muted">Championship for Athletes with Disabilities</h3>
 
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
                 <div class="col-md-6">
-                    <img class="img-responsive" src="{{asset('img/cybathlon.jpg')}}"/>
+                    <a href="http://www.cybathlon.ethz.ch/">
+                        <img class="img-responsive" src="{{asset('img/cybathlon.jpg')}}"/>
+                    </a>
                 </div>
                 <div class="col-md-6">
                     <h3 class="no-margin-top">The Competition</h3>
 
                     <p>
-                        The Cybathlon 2016 is the first bionic championships for advanced assisted devices that aim to
+                        The <a href="http://www.cybathlon.ethz.ch/">Cybathlon 2016</a> is the first bionic championships
+                        for advanced assisted devices that aim to
                         aid the physically impaired and paraplegics. The Cybathlon is a platform for 6 disciplines that
                         represent a wide range of prosthetic technology supporting those within society whose life has
-                        been affected by their injury. The disciplines are powered knee prostheses, wearable arm
+                        been affected by their disability. The disciplines are powered knee prostheses, wearable arm
                         prostheses, powered exoskeletons, powered wheelchairs, electrically stimulated muscles and
                         brain-computer interfaces. The competing devices that are entered by competitors are driven by a
-                        pilot fitting specific physical disability. The devices can be commercially available products
+                        pilot with a specific disability, a SPI causing paralysis of the lower limbs. The devices can be
+                        commercially available products
                         provided by companies but also prototypes developed by research labs. Competitors in the
                         disciplines try to excel in their own field of research and technology and thereby set the bar
                         for future research.
@@ -324,8 +331,9 @@
                         <h4>Discpline</h4>
 
                         <p>
-                            During the Cybathlon we will be competing in the Powered Exoskeleton Race. The pilot with
-                            have to perform tasks from daily life with the use of an exoskeleton.
+                            During the Cybathlon we will be competing in the Powered Exoskeleton Race. The pilot will
+                            have to perform tasks which are presented in daily life, being aided by the use of a powered
+                            exoskeleton
                         </p>
                     </div>
                     <div class="col-md-4">
@@ -333,7 +341,9 @@
                         <h4>Track</h4>
 
                         <p>
-                            The track consists of six tasks that are often encountered in daily life that now pose as
+                            <a href="http://www.cybathlon.ethz.ch/the-disciplines/powered-exoskeleton-race.html">The
+                                track</a>
+                            consists of six tasks that are often encountered in daily life that now pose as
                             obstacles. These obstacles are, sitting and standing up from a sofa, balancing on a beam,
                             walking up a ramp, stepping over flat pillars, a tilted uneven terrain and a set of stairs.
 
@@ -344,7 +354,7 @@
                         <h4>Time and Place</h4>
 
                         <p>
-                            The Cybathlon will be held in the Kolping Arena in Zurich on October 8th 2016.
+                            The Cybathlon will be held in the Kolping Arena in Zürich on October 8th 2016.
 
                         </p>
                     </div>
@@ -363,7 +373,7 @@
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Our Partners</h2>
 
-                <h3 class="section-subheading text-muted">These are the amazing people we work with.</h3>
+                <h3 class="section-subheading text-muted">These are the organizations we work with</h3>
             </div>
             <div class="col-md-4">
                 <img src="img/logos/tu_delft.jpg" class="img-responsive img-centered" alt="">
@@ -456,13 +466,14 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <span class="copyright">Copyright &copy; Project MARCH 2014</span>
+                <span class="copyright">Copyright &copy; Project MARCH 2015</span>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
-                    <li><a href="https://twitter.com/ProjectMARCH15"><i class="fa fa-twitter"></i></a>
+                    <li><a href="https://twitter.com/ProjectMARCH15" target="_blank"><i class="fa fa-twitter"></i></a>
                     </li>
-                    <li><a href="https://www.facebook.com/projectmarch"><i class="fa fa-facebook"></i></a>
+                    <li><a href="https://www.facebook.com/projectmarch" target="_blank"><i
+                                    class="fa fa-facebook"></i></a>
                     </li>
                     <li><a href="#"><i class="fa fa-linkedin"></i></a>
                     </li>
@@ -499,14 +510,15 @@
 
 <!-- Custom Theme JavaScript -->
 <script src="js/agency.js"></script>
-<script type="text/javascript">
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-9188944-5', 'auto');
-  ga('send', 'pageview');
+    ga('create', 'UA-9188944-5', 'auto');
+    ga('send', 'pageview');
+
 </script>
 </body>
 

@@ -18,8 +18,8 @@
                         <img class="img-responsive img-centered" src="img/portfolio/the_pilot_full.jpg" alt="">
 
                         <p>In the next couple of weeks, the pilot of the exoskeleton will be selected among several
-                            paraplegic patients. We are working closely with Radboud UMC to select the right canditate.
-                            He/she will be the main character of the team and will be involved
+                            paraplegic patients. We are working closely with the Sintmaarten Clinic to select the right canditate.
+                            He/she will be the focal point of the team and will be involved
                             intensively in the project over the coming year. In addition, a national documentary will
                             be created by an external company about his/her life from the start of the project until the
                             exoskeleton race during the Cybathlon 2016.
@@ -102,18 +102,21 @@
                         <h2>Symbitron</h2>
 
                         <p class="item-intro text-muted">The research behind the exoskeleton</p>
-                        <img class="img-responsive img-centered" src="{{asset('img/portfolio/symbitron_full.jpg')}}"
-                             alt="">
+                        <a href="http://www.symbitron.eu/">
+                            <img class="img-responsive img-centered" src="{{asset('img/portfolio/symbitron_full.jpg')}}"
+                                 alt="">
+                        </a>
 
                         <p>
-                            The symbitron project is a European research group that strive to overcome the existing
+                            The symbitron project is a European research group that strives to overcome the existing
                             technical limitations of powered exoskeletons, to enhance state-of-the-art knowledge on
                             walking, balance and
-                            man-machine interaction, and thereby to bring independent walking with tailor-fitted,
+                            man-machine interaction, and thereby they intend to bring independent walking with
+                            tailor-fitted,
                             wearable exoskeletons within reach of the patient.</p>
 
                         <p>
-                            They goal is for a patient-driven methodology in which the design and control of the
+                            The goal is for a patient-driven methodology in which the design and control of the
                             wearable exoskeleton and the interface between the exoskeleton and patient are customized to
                             the unique features (impairments and remaining capacities) of each individual patient.
                             Their ambition is to give each personalized exoskeleton human-like neuromuscular properties
@@ -292,41 +295,45 @@
                         <!-- Project Details Go Here -->
                         <h2>Partner up with Project MARCH</h2>
 
-                        <p class="item-intro text-muted">And be a part of our story.</p>
-
                         <p>
                             Project MARCH is the upcoming prestigious Dream Team of the Delft University of Technology.
-                            With a group of ambitious students of different backgrounds, we are making Delft’s first
-                            exoskeleton. Our mission is to give paraplegics a second chance to walk again with the
-                            assistance of our
-                            exoskeleton. We want to remove barriers between the public, people with disabilities and
-                            science with our project.
+                            With a group of ambitious students of different backgrounds, we embody Delft’s first student
+                            exoskeleton team. Our mission is to give paraplegics a second chance to walk again with the
+                            assistance of our exoskeleton. With the existence of Project MARCH we want to remove
+                            barriers between the public, people with disabilities and the technology to help them
+                            overcome these disabilities.
                         </p>
 
                         <p>
-                            Our goal is to compete and win the Cybathlon 2016 in Zurich! The Cybathlon is a
-                            tournament for racing pilots with disabilities who are using advanced assistive devices
-                            including robotic technologies.
+                            Our goal is to drastically improve the daily lives of paraplegics with the use of our
+                            exoskeleton. In October 2016 at the international Cybathlon in Zürich we will test our
+                            exoskeleton in front of the world. The Cybathlon is a tournament for racing pilots with
+                            disabilities who are using advanced assistive devices including robotic technologies.
+
                         </p>
 
                         <p>
-                            As a partner you can be a part of this! There are several ways you can contribute to our
-                            project. In return for your financial or material support, we can make you an offer covering
-                            marketing and communication goals. Since we are a new Student Team, there will be a lot of
-                            eyes focused on us from both the university and the media. As a partner you will
-                            get a high-tech and socially responsible image. Besides your imago, you will
-                            increase your network with ambitious future engineers.
+                            As a partner you can contribute to all of this! There are several ways you can contribute to
+                            our project. In return for your expertise, financial support, or material support, we can
+                            make you an offer covering marketing, communication goals and more. Since we are a brand-new
+                            Student Team, developing a high-tech exoskeleton to improve peoples lives, there will be a
+                            lot of media and academic coverage. As a partner you will get a high-tech and socially
+                            responsible image. Besides your image, you will increase your network with ambitious future
+                            engineers.
+
                         </p>
 
                         <p>
-                            Do you want to contribute in a new project where students push the boundaries of technolgy?
-                            Do you want to help us achieving our goal to help disabled people walk again?
-                            Do you want to be a part of an ambitious team and win the Cybathlon of 2016?
-                            Contact us either through our contact form or directly through email or phone:
+                            Do you want to contribute in a new project where students push the boundaries of technology?
+                            Do you want to help us achieve our goal to help disabled people walk again? Do you want to
+                            be a part of an ambitious team and win the Cybathlon of 2016? Contact us either through our
+                            contact form or directly through email or phone:
+
                         </p>
 
                         <h2 class="text-center">Contact Information</h2>
                         <hr>
+                        <h4 class="text-center">Jelle Sturkenboom</h4>
                         <h4 class="text-center">Telephone: +31623115550</h4>
                         <h4 class="text-center">Email: info@projectmarch.nl</h4>
                         <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
