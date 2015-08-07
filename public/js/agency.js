@@ -24,8 +24,3 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
-
-// detect back button
-$(window).on('popstate', function(event) {
-    alert("pop");
-});
