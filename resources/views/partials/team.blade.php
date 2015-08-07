@@ -58,7 +58,7 @@
                     <img src="{{asset('img/team/alex.jpg')}}" class="img-responsive img-circle" alt="">
                     <h4>Alexander Mentink</h4>
 
-                    <p class="text-muted">Sponsoring</p>
+                    <p class="text-muted">Finance &amp; Acquisition</p>
                 </div>
             </div>
             <div class="col-sm-4">
