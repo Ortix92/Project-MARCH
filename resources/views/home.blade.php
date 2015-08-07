@@ -445,7 +445,6 @@
                                     Stevinweg 4<br/>
                                     2628CN <br/>
                                     Delft <br/>
-                                    +31 (0)15 27 86802<br/>
                                     info@projectmarch.nl
                                 </p>
                             </div>
