@@ -474,8 +474,6 @@
                     <li><a href="https://www.facebook.com/projectmarch" target="_blank"><i
                                     class="fa fa-facebook"></i></a>
                     </li>
-                    <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                    </li>
                 </ul>
             </div>
             <div class="col-md-4">
