@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="Project MARCH is the new Student Team in Delft. The team will spend a year developing and building an exoskeleton to compete at the 2016 Cybathlon in Zurich.">
     <meta name="author" content="">
 
-    <title>Project MARCH - Building an Exoskeleton</title>
+    <title>Project MARCH - Building an Exoskeleton - TU Delft</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
@@ -92,7 +92,7 @@
 <header>
     <div class="container">
         <div class="intro-text">
-            <div class="intro-lead-in">The new Student Team</div>
+            <div class="intro-lead-in">The new Student Team in Delft</div>
             <div class="intro-heading">Building <br/> an Exoskeleton</div>
             <a href="#about" class="page-scroll btn btn-xl">Learn More</a>
         </div>
