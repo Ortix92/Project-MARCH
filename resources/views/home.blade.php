@@ -95,6 +95,7 @@
             <div class="intro-lead-in">The new Student Team in Delft</div>
             <div class="intro-heading">Building <br/> an Exoskeleton</div>
             <a href="#about" class="page-scroll btn btn-xl">Learn More</a>
+            <a href="#introVideoModal" data-toggle="modal" class="page-scroll btn btn-xl">See MARCH</a>
         </div>
     </div>
 </header>

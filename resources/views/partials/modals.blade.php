@@ -35,7 +35,37 @@
         </div>
     </div>
 </div>
+<!--Intro Video-->
+<div class="portfolio-modal modal fade" id="introVideoModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>See MARCH in Action!</h2>
 
+                        <p>
+                            Project MARCH will continue where the MINDWALKER left off.
+                            We will be using existing technology developed by the Delft University of Technology to create a better and faster exoskeleton. 
+                        </p>
+                        <p>
+                        <iframe width="560" height="315" class=".embed-responsive-item" src="https://www.youtube.com/embed/dzoAeSrUL9s" allowfullscreen></iframe>
+                        </p>
+                        <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i>
+                            Close
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <!--Tech-->
 <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
