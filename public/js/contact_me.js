@@ -17,6 +17,9 @@ $(function() {
             if (firstName.indexOf(' ') >= 0) {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
+            $('.sendMessage').hide();
+            $('.sendingMessage').removeClass('hidden');
+
             $.ajax({
                 url: "/contact",
                 type: "POST",
@@ -50,7 +53,12 @@ $(function() {
                     //clear all fields
                     $('#contactForm').trigger("reset");
                 },
+                complete: function() {
+                    $('.sendingMessage').addClass('hidden');
+                    $('.sendMessage').show();
+                }
             })
+
         },
         filter: function() {
             return $(this).is(":visible");

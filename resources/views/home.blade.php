@@ -453,7 +453,8 @@
                         <div class="clearfix"></div>
                         <div class="col-lg-12 text-center">
                             <div id="success"></div>
-                            <button type="submit" class="btn btn-xl">Send Message</button>
+                            <button type="submit" class="btn btn-xl sendMessage">Send Message</button>
+                            <button type="submit" class="btn btn-xl sendingMessage hidden">Sending...</button>
                         </div>
                     </div>
                 </form>
