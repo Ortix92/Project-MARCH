@@ -118,7 +118,7 @@
                     </span>
                 <h4 class="service-heading">The Team</h4>
 
-                <p class="text-muted">The team consists of full-time and part-time students from Delft University of
+                <p class="text-muted">The Project MARCH team consists of full-time and part-time students from Delft University of
                     Technology. Coming from a wide variety of disciplines and backgrounds, they form a well suited team
                     that has all the skills and motivation necessary to fulfill the main goal of the project.
                     Furthermore, the team is located in the “Dreamhall” together with other successful teams, such as
@@ -137,7 +137,7 @@
                     for a paraplegic patient. This patient will be the pilot of the Motor-Assisted
                     Robotic Chassis for Humans (MARCH) and will take part in the first bionic championships, The
                     Cybathlon 2016 in Zürich. Since the race is set-up with multiple obstacles, one of the most
-                    challenging parts of the project will be to upgrade the suit in versatility.
+                    challenging parts of the project will be to develop a suit which is versatile in day to day tasks.
 
                 </p>
             </div>
@@ -149,7 +149,7 @@
                 <h4 class="service-heading">Our Goal</h4>
 
                 <p class="text-muted">
-                    Our goal is to give paraplegics back what is fundamentally human: walking. Enabling them to walk
+                    Our goal with Project MARCH is to give paraplegics back what is fundamentally human: walking. Enabling them to walk
                     throughout the day will result in physical and mental benefits of unmeasurable proportions. This
                     goal will be validated by participating in the Cybathlon. To accomplish this goal the team will
                     develop the exoskeleton in such manner that the pilot can perform outstandingly on the Cybathlon
@@ -185,7 +185,7 @@
                 <div class="portfolio-caption">
                     <h4>The Pilot</h4>
 
-                    <p class="text-muted">Information on the pilot who will use the exoskeleton to
+                    <p class="text-muted">Information on the pilot who will use the Project MARCH exoskeleton to
                         participate in the Cybathlon 2016.
                     </p>
                 </div>
@@ -203,7 +203,7 @@
                 <div class="portfolio-caption">
                     <h4>The Technology</h4>
 
-                    <p class="text-muted">Find out what goes into developing a powered exoskeleton and how we have an
+                    <p class="text-muted">Find out what goes into developing a powered exoskeleton and how Project MARCH has an
                         edge over our competition.</p>
                 </div>
             </div>
@@ -221,7 +221,7 @@
                     <h4>Symbitron</h4>
 
                     <p class="text-muted">
-                        The Mindwalker Exoskeleton, the basis for MARCH, has been developed by the Symbitron
+                        The Mindwalker Exoskeleton, the basis for Project MARCH, has been developed by the Symbitron
                         research.
 
                     </p>
@@ -332,7 +332,7 @@
                         <h4>Discpline</h4>
 
                         <p>
-                            During the Cybathlon we will be competing in the Powered Exoskeleton Race. The pilot will
+                            During the Cybathlon the Project MARCH team will be competing in the Powered Exoskeleton Race. The pilot will
                             have to perform tasks which are presented in daily life, being aided by the use of a powered
                             exoskeleton
                         </p>
